@@ -9,5 +9,4 @@ const twoSum = (nums, target) =>{
     return [];
 }
 
-
 console.log(twoSum([2, 0, 8, 6, 7], 9));
